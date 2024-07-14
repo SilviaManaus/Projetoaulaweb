@@ -1,0 +1,36 @@
+/* definido estilos para o body */
+
+body{
+    font-family: Arial, sans-serif;
+    color: 333px;
+    background-color: rgb(111, 59, 179);
+    margin: 0;
+    padding: 0;
+}
+
+/* estilo para o header */
+header{
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* estilo para h1 do header */
+
+header h1{
+    margin: 0;
+}
+
+/* estilando o menu de nav */
+    nav ul{
+      list-style: nome; 
+      padding: 0; 
+      margin: 0;
+    }
+
+    /* estilando a distancia dos menus */
+    nav ul li{
+        margin-right: 10px;
+    }
